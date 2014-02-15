@@ -1,8 +1,5 @@
 package justice.models;
 
-import javax.xml.bind.annotation.XmlRootElement;
-
-@XmlRootElement
 public class Voting {
     private int voterId;
     private int candidateId;
